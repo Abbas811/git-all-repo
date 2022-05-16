@@ -1,2 +1,3 @@
 third .txt file was added to here
 second line some text added 
+third line added in third text file 
